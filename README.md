@@ -2,7 +2,7 @@
 <img src="https://play.google.com/store/apps/details?id=com.HTML.AngularJS.Codeplay&hl=ro&gl=US"/>
 
 <div>
-    <h4>What app you can find:</h4>
+    <h4>What applications you can find in my portofolio:</h4>
     <ol>
         <li>ContactFormWeb</li>
         <li>BookListApp</li>
